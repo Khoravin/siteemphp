@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+form{
+   
+    margin-top: 20px;
+   text-align: center;
+}
+input{
+    height: 50px;
+    width: 200px;
+}
+#enviar{
+    height: 30px;
+    width: 100px;
+    background-color: cornflowerblue;
+}
